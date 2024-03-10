@@ -1,3 +1,7 @@
+**Explanation Video Link**   :   https://drive.google.com/file/d/1cJDusAj5dqFtXTv9_0iBA2U1DYv_xdwH/view?usp=drive_link
+
+
+
 Data Overview: Refer: https://github.com/swkarlekar/safecity All of the data is in 2 folders.
 Folder 1(Binary Classification):
     commenting_data:
